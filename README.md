@@ -97,3 +97,10 @@ Este projeto foi desenvolvido como atividade acadêmica para demonstrar o uso de
 - Operações CRUD (Create, Read, Update, Delete)
 - Processamento de arquivos CSV
 - Formatação de saídas para console
+
+
+## Marcus Boni 🤙
+
+Desenvolvido como parte de um exercício para aprendizado de boas práticas em Python, com foco em manipulação de arquivos, lógica de programação e geração de relatórios.
+
+---
